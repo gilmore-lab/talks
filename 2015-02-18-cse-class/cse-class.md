@@ -827,13 +827,22 @@ name: steady-state-design
 
 .left-column[
 ## Brain responses
-- Kohler et al. 2014
+### - Kohler et al. 2014
+### - Experiment design
 ]
 .right-column[
 ## Modulate rotational symmetry (P2, P3, P4, P6) vs. non- (P1)
-## Activate regions sensitive to rotational symmetry, but not low-level features
 ]
 
+---
+.left-column[
+## Brain responses
+### - Kohler et al. 2014
+### - Experiment design
+]
+.right-column[
+<img src="img/experiment_procedure.png" height="500px">
+]
 
 ---
 
@@ -905,12 +914,26 @@ name: kohler-etal-2014-snr
 
 .left-column[
 ## Brain responses
-- Kohler et al. 2014
+### - Kohler et al. 2014
+### - Results
 ]
 .right-column[
-<img src="img/SNR.vr.sc.dt.png" width="800px">
+<img src="img/hemiSNR_harm1.vr.sc.dt.png" width="600px">
 
 ### EEG SNR increases with rotational symmetry
+]
+
+---
+
+name: kohler-etal-2014-surf
+
+.left-column[
+## Brain responses
+### - Kohler et al. 2014
+### - Results
+]
+.right-column[<img src="img/V4.vr.sc.dt.png" width="700px">
+
 ### Higher order "what/form" areas strongest
 ]
 
@@ -920,9 +943,15 @@ name: kohler-etal-2014-surf
 
 .left-column[
 ## Brain responses
-- Kohler et al. 2014
+### - Kohler et al. 2014
+### - Results
 ]
-.right-column[<img src="img/sym4gr_surf.png" height="600px">]
+.right-column[<img src="img/sym4gr_surf.png" height="500px">
+
+### Higher order "what/form" areas strongest
+]
+
+
 
 ---
 
