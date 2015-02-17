@@ -710,6 +710,22 @@ name: agenda-2
 
 ---
 
+.left-column[
+## Symmetry detection in brain and behavior
+### - Facial symmetry
+]
+
+.right-column[
+## Left/right face nearly, but not perfectly symmetric
+## Symmetry influences [perception of attractiveness](http://www.nsmbl.com/what-symmetry-can-do-to-your-face/)
+
+<img src="http://www.nsmbl.com/wp-content/uploads/2012/02/90-1-300x150.jpg">
+<img src="http://www.nsmbl.com/wp-content/uploads/2012/02/90-5-300x150.jpg">
+<img src="http://i.imgur.com/Nbhp3.jpg" width="600px">
+
+]
+---
+
 name: cohen-zaidi-2013
 
 .left-column[
