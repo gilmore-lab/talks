@@ -38,7 +38,7 @@ class: middle, center
 ## [Markdown](http://daringfireball.net/projects/markdown/)
 ## CSS, HTML5
 ## GitHub
-#### Source: <http://github.com/gilmore-lab/talks/2015-02-18-cse-class/>
+#### Source: <https://github.com/gilmore-lab/talks/blob/gh-pages/2015-02-18-cse-class/>
 #### Presentation: <http://gilmore-lab.github.io/talks/2015-02-18-cse-class/>
 
 ---
