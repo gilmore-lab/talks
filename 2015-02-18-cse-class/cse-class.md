@@ -786,7 +786,8 @@ class: middle, center
 name: kohler-etal-2014-p1
 class: middle, center
 
-![p1](img/p1-001.png)
+<img src="img/p1-001.png" width="400px">
+
 ### P1
 
 ---
@@ -794,7 +795,8 @@ class: middle, center
 name: kohler-etal-2014-p2
 class: middle, center
 
-![p2](img/p2-001.png)
+<img src="img/p2-001.png" width="400px">
+
 ### P2
 
 ---
@@ -802,7 +804,8 @@ class: middle, center
 name: kohler-etal-2014-p3
 class: middle, center
 
-![p3](img/p3-001.png)
+<img src="img/p3-001.png" width="400px">
+
 ### P3
 
 ---
@@ -810,7 +813,8 @@ class: middle, center
 name: kohler-etal-2014-p4
 class: middle, center
 
-![p4](img/p4-001.png)
+<img src="img/p4-001.png" width="400px">
+
 ### P4
 
 ---
@@ -818,7 +822,8 @@ class: middle, center
 name: kohler-etal-2014-p6
 class: middle, center
 
-![p6](img/p6-001.png)
+<img src="img/p6-001.png" width="400px">
+
 ### P6
 
 ---
@@ -932,7 +937,8 @@ name: kohler-etal-2014-surf
 ### - Kohler et al. 2014
 ### - Results
 ]
-.right-column[<img src="img/V4.vr.sc.dt.png" width="700px">
+.right-column[
+<img src="img/V4.vr.sc.dt.png" width="700px">
 
 ### Higher order "what/form" areas strongest
 ]
