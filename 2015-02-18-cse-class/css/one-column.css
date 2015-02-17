@@ -1,0 +1,46 @@
+/* css styles */
+
+body { font-family: 'Maven Pro'; }
+
+h1, h2, h3 {
+        font-family: 'Maven Pro';
+        font-weight: normal;
+      }
+
+img {
+        border-: 2px;
+      }
+      
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+.footnote {
+	position: absolute;
+	bottom: 3em;
+}
+
+.pull-left {
+	float: left;
+	width: 47%;
+}
+
+.pull-right {
+	float: right;
+	width: 47%;
+}
+
+.pull-top {
+	float: top;
+	text-align: top;
+	width: 47%;
+}
+
+.pull-bottom {
+	float: bottom;
+	text-align: bottom;
+	clear: all;
+	width: 47%;
+}
+
+.pull-right ~ p {
+	clear: both;
+}

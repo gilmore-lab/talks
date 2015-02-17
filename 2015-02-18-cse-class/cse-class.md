@@ -4,75 +4,92 @@ class: center, middle
 # Some Things Computer Scientists Might Find Useful to Know About Human Vision
 
 ### [Rick O. Gilmore](http://www.personal.psu.edu/rog1)
+#### Department of Psychology
 ### 2015-02-18
 
 ---
 
 name: about-me-work
-class: center
 
-# Work
+.left-column[
+## About me
+### - Work
+]
+
+.right-column[
 ### [Development of perception, action, memory](http://scholar.google.com/scholar?q=hou+gilmore+norcia+2009)
 ### [Brain development](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0631217363.html)
 ### [Quantitative/computational models](http://psycnet.apa.org/journals/met/9/1/70/)
 ### [Natural scene statistics](http://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00645#.VIhuA2TF_ls)
 ### [Neuroesthetics](https://github.com/rogilmore/symmetry)
 ### [Open science, data sharing](http://databrary.org)
+]
 
 ---
 
 name: about-me-personal
-class: center
 
-# [Personal](http://rick-gilmore.org/)
+.left-column[
+## About me
+### - Work
+### - Play
+]
+
+.right-column[
 ### Theatre, music
 ### Cycling, hiking, paddling
-### [Advocacy](http://rick-gilmore.org)
+### Advocacy
+### Poetry
+]
 
 ---
 
 name: technology-stack
-class: middle, center
+.left-column[
+## About me
+### - Work
+### - Play
+### - Stack
+]
 
-# Technology stack
-## JavaScript ([remark.js](http://remarkjs.com/))
-## [Markdown](http://daringfireball.net/projects/markdown/)
-## CSS, HTML5
-## GitHub
+.right-column[
+### JavaScript ([remark.js](http://remarkjs.com/))
+### [Markdown](http://daringfireball.net/projects/markdown/)
+### CSS, HTML5
+### GitHub
 #### Source: <https://github.com/gilmore-lab/talks/blob/gh-pages/2015-02-18-cse-class/>
 #### Presentation: <http://gilmore-lab.github.io/talks/2015-02-18-cse-class/>
+]
 
 ---
 
 name: agenda-1
-class: center
 
-# Agenda
+.left-column[
+## Agenda
+]
 
---
-
+.right-column[
 ### How human vision compares with machine vision
-
---
 
 ### Studying human symmetry perception from a neural and computational perspective
 
---
-
 ### Opportunities to apply machine vision to understand human function
+]
 
 ---
 
 name: human-vision-vs-machine-vision
-class: center
 
-# Structure of biological and machine vision systems
+.left-column[
+## Bio vision vs. Machine
+]
+.right-column[
+### Input
 
-## Input
+### Processing
 
-## Processing
-
-## Output
+### Output]
 
 ---
 
@@ -95,94 +112,145 @@ class: center, middle
 
 ---
 
-name: what-is-vision-for
-class: 
-
+.left-column[ 
 ## What is vision for?
+### - Where is it? 
+ ]
 
---
+.right-column[
+- Surface geometry -- position, orientation
+- Distance
+- Motion, time-to-contact 
+]
 
-### Where is it?
+---
 
-- Surface geometry -- position, orientation, distance, motion 
+.left-column[ 
+## What is vision for?
+### - Where is it?
+### - What is it?
+ ]
 
---
+.right-column[
+- Object detection
+- Object identification 
+]
 
-### What is it?
+---
 
-- Object detection, identification
+.left-column[ 
+## What is vision for?
+### - Where is it?
+### - What is it?
+### - Why should I care? 
+ ]
 
---
-
-### Why should I care? What should I do?
-
+.right-column[
 - Action planning
 - Approach/avoid
-- Manipulate
+- Manipulate 
+]
 
 ---
 
 name: marr
-class: middle, center
 
+.left-column[
+## Worth reading
+### - David Marr
+]
+
+.right-column[
 <img src="http://mitpress.mit.edu/covers/9780262514620.jpg">
 
 *http://mitpress.mit.edu/covers/9780262514620.jpg*
-
-### David Marr
+]
 
 ---
 
 name: gibson
-class: middle, center
 
+.left-column[
+## Worth reading
+### - David Marr
+### - James J. Gibson
+]
+
+.right-column[
 <img src="http://ecx.images-amazon.com/images/I/41jADt9D4BL.jpg">
 
 *http://ecx.images-amazon.com/images/I/41jADt9D4BL.jpg*
-
-### James J. Gibson
-
+]
 
 ---
 
 name: brain-architecture
-class: middle, center
 
-![Brain Architecture](img/swanson-fig-7.5.png) 
+.left-column[
+## Worth reading
+### - David Marr
+### - James J. Gibson
+### - Larry W. Swanson
+]
+.right-column[
+<img src="http://ecx.images-amazon.com/images/I/51n0L4tBurL._SY344_BO1,204,203,200_.jpg">
+
+*https://global.oup.com/academic/product/brain-architecture-9780195378580?cc=us&lang=en&*
+]
+
 
 ---
 
 name: swanson-brain-architecture
-class: middle, center
 
-<img src="http://ecx.images-amazon.com/images/I/51n0L4tBurL._SY344_BO1,204,203,200_.jpg">
+.left-column[
+## Worth reading
+### - David Marr
+### - James J. Gibson
+### - Larry W. Swanson
+]
+.right-column[
+![Swanson figure](img/swanson-fig-7.5.png)]
 
-## Larry W. Swanson
 
 ---
 
 name: plenoptic-function
-class: middle, center
 
-# Plenoptic function ([Adelson & Bergen](https://books.google.com/books?hl=en&lr=&id=5jERNl9fKgEC&oi=fnd&pg=PA3&dq=adelson+bergen+plenoptic+function&ots=LRqf-2Jc7s&sig=31tXO44fAgDJV4DFHMiyvo4PNGA#v=onepage&q=adelson%20bergen%20plenoptic%20function&f=false))
+.left-column[
+## Computation
+]
 
+.right-column[
 <img src="http://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/cliffl/images/plenoptic.gif">
+
 *http://web.cs.wpi.edu/~emmanuel/courses/cs563/write_ups/cliffl/images/plenoptic.gif*
 
+### Plenoptic function
 ### Position (Vx, Vy, Vz), Orientation (&phi;, &theta;), Time (t), Wavelength (&lambda;)
+### [Adelson & Bergen 91](https://books.google.com/books?hl=en&lr=&id=5jERNl9fKgEC&oi=fnd&pg=PA3&dq=adelson+bergen+plenoptic+function&ots=LRqf-2Jc7s&sig=31tXO44fAgDJV4DFHMiyvo4PNGA#v=onepage&q=adelson%20bergen%20plenoptic%20function&f=false)
+]
 
 ---
 
 name: mapping-functions
 
-# Where is it?
+.left-column[
+## Computation
+### - Where is it?]
+
+.right-column[
 - Egocentric position, motion, geometry of target point X
-- Self vs. other motion
+- Self vs. other motion]
 
---
+---
 
-# What is it?
+.left-column[
+## Computation
+### - Where is it?
+### - What is it?]
 
+.right-column[
 - Separable or continuous?
 - Moving or static?
 - Rigid or non-rigid?
@@ -192,24 +260,34 @@ name: mapping-functions
 - Threat or not?
 - Kin or not?
 - Food or not?
-- Mate or not?
+- Mate or not?]
 
 ---
 
-name: mapping-functions-2
-
-# Why should I care? What should I do about it?
-
+.left-column[
+## Computation
+### - Where is it?
+### - What is it?
+### - Why should I care?
+]
+.right-column[
 - Move or freeze?
 - Approach or avoid?
 - Touch, eat, fight, mate with, comfort...
+]
 
 ---
 
 name: affordances
-class: center, middle
+.left-column[
+## Computation
+### - Where is it?
+### - What is it?
+### - Why should I care?
+]
 
-## [Affordances](http://en.wikipedia.org/wiki/Affordance)
+.right-column[
+### [Affordances](http://en.wikipedia.org/wiki/Affordance)
 
 <img src="http://www.macs-eu.org/images/affordance-animals.jpg">
 
@@ -218,294 +296,483 @@ class: center, middle
 ### Relation between object and organism that specifies possible actions.
 
 #### James. J. Gibson
+]
 
 ---
 
 name: eye
-class: center, middle
 
+.left-column[
+## The sensor
+### - Eye
+]
+
+.right-column[
 <img src="http://webvision.med.utah.edu/imageswv/Sagschem.jpeg">
 
 *http://webvision.med.utah.edu/imageswv/Sagschem.jpeg*
+]
 
 ---
 
 name: retina
-class: center, middle
 
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+]
+
+.left-column[
 <img src="http://www.webexhibits.org/causesofcolor/images/content/26z.jpg">
 
 *http://www.webexhibits.org/causesofcolor/images/content/26z.jpg*
+]
 
 ---
 
 name: ccd
-class: center, middle
 
-<img src="http://www.globalspec.com/ImageRepository/LearnMore/20126/camera-sensor3c3f2bfd16fe46f2aa105a82f6a1c074.png">
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+]
+
+.right-column[
+<img src="http://www.globalspec.com/ImageRepository/LearnMore/20126/camera-sensor3c3f2bfd16fe46f2aa105a82f6a1c074.png" height="500px">
+
+*http://www.globalspec.com/ImageRepository/LearnMore/20126/camera-sensor3c3f2bfd16fe46f2aa105a82f6a1c074.png*
+]
 
 
 ---
 
 name: eye-vs-camera-1
-class: center, middle
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+]
 
-# Vision smack-down, [Eye Vs. Camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CL61MbyYsd4" frameborder="0" allowfullscreen></iframe>
+.right-column[
+<iframe height="600px" width="800" src="https://www.youtube.com/embed/CL61MbyYsd4" frameborder="0" allowfullscreen></iframe>
+]
 
 ---
 
 name: eye-vs-camera-2
-class: 
 
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+] 
+
+.left-column[
+## Geometry
+- Eye: Spherical
+- Camera: Cartesian
+]
+
+---
+
+
+name: eye-vs-camera-2
+
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+] 
+
+.left-column[
 ## Geometry
 - Eye: Spherical
 - Camera: Cartesian
 
---
-
 ## Temporal sampling
 - Eye: [30-100 Hz](http://www.jneurosci.org/content/30/11/3896.full.html)
 - Camera: [.67-500 Hz+](http://www.fastecimaging.com/products/handheld-cameras/high-speed-long-record/ts4)
+]
 
---
+---
 
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+] 
+
+.right-column[
 ## Image compression
 - Eye: 125:1
 - Camera: ?
 
----
-
-class: middle, center
-
-<img src="http://www.webexhibits.org/causesofcolor/images/content/26z.jpg">
+<img src="http://www.webexhibits.org/causesofcolor/images/content/26z.jpg" width="600px">
 
 *http://www.webexhibits.org/causesofcolor/images/content/26z.jpg*
+]
 
 ---
 
-name: eye-vs-camera-3
-class: 
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+] 
 
+.left-column[
 ## Stereo
 - Eye: Separated by ~ 6 cm, both eyes move
-- [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed  
+- [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
+]
 
---
+---
 
-## Image stabilization/detection
+.left-column[
+## The sensor
+### - Eye
+### - Retina
+### - CCD camera
+### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
+] 
+
+.left-column[
+## Stereo
+- Eye: Separated by ~ 6 cm, both eyes move
+- [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
+
+## Image stabilization
 - Eye: nystagmus, saccades, pursuit, vestibulo-occular reflex
 - Camera: [optical and digital](http://cameras.about.com/od/technologies/a/image_stabiliza.htm)
+]
 
 ---
 
 name: human-vision-vs-machine-vision-2
-class: center
 
-# Structure of biological and machine vision systems
+.left-column[
+## Bio vision vs. Machine
+]
+.right-column[
+### *Input*
 
-## *Input*
+### Processing
 
-## Processing
-
-## Output
+### *Output*
+]
 
 ---
 
 name: from-eye-to-brain
-class: middle, center
 
+.left-column[
+## Processing networks
+### - Visual brain
+]
+
+.right-column[
 <img src="http://vis.berkeley.edu/courses/cs294-10-sp10/wiki/images/6/6b/Felleman_CC_1991.png" height="500">
 
 *http://vis.berkeley.edu/courses/cs294-10-sp10/wiki/images/6/6b/Felleman_CC_1991.png*
 
 #### [Felleman & Van Essen 91](http://cercor.oxfordjournals.org/content/1/1/1.1.short)
+]
 
 ---
 
 name: felleman-vanessen-91
-class: middle, center
 
+.left-column[
+## Processing networks
+### - Visual brain
+]
+
+.right-column[
 <img src="http://www.cse.yorku.ca/~billk/images/brainMap.gif">
 
 *http://www.cse.yorku.ca/~billk/images/brainMap.gif*
 
 #### [Felleman & Van Essen 91](http://cercor.oxfordjournals.org/content/1/1/1.1.short)
+]
 
 ---
 
 name: networks-and-the-brain
-class: middle, center
 
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+]
+
+.right-column[
 <img src="http://humanconnectome.org/about/pressroom/wp-content/uploads/2012/03/NIH_Functional-Connectivity-Matrix.png" height="500px">
 
 *http://humanconnectome.org/about/pressroom/wp-content/uploads/2012/03/NIH_Functional-Connectivity-Matrix.png*
 
 #### [Human Connectome Project](http://www.humanconnectomeproject.org/)
+]
 
 ---
 
 name: retinotopy-1
-class: center
 
-<img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg" width="500px">
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+]
+
+.right-column
+[<img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg" width="500px">
 
 *http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg*
 
 #### [Wandell et al. 07](http://www.sciencedirect.com/science/article/pii/S089662730700774X)
+]
 
 ---
 
 name: retinotopy-2
-class: middle, center
 
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+]
+
+.right-column[
 <img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr3.jpg" width="500px">
 
 *http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr3.jpg*
 
 #### [Wandell et al. 07](http://www.sciencedirect.com/science/article/pii/S089662730700774X)
+]
 
 ---
 
 name: retinotopy-3
-class: middle, center
 
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+]
+
+.right-column[
 <img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr2.jpg" width="500px">
 
 *http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr2.jpg*
 
 #### [Wandell et al. 07](http://www.sciencedirect.com/science/article/pii/S089662730700774X)
+]
 
 ---
 
 name: feature-detection
-class: middle, center
 
-# What are these areas computing?
-
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+### - What do they compute?
+]
+.right-column[
 ### Edges
 
 ### Wavelength contrast (color)
 
 ### Motion
-
+]
 ---
 
 name: what-where
-class: center
 
-<img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="500px">
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+### - What do they compute?
+### - Specialization
+]
+
+.right-column[
+<img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="400px">
 
 *https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png*
+]
 
 ---
 
 name: mishkin-ungerleider-macko-82
-class: center
 
-<img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="300px">
+.left-column[
+## Two streams
+### - Where vs. What]
 
---
+.right-column[
+<img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="400px">
 
-### Two streams: Where (dorsal) vs. What (ventral)
-#### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)
-
---
-
-### Where/*How* vs. What
-#### [Goodale & Milner 92](http://www.sciencedirect.com/science/article/pii/0166223692903448)
+#### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)]
 
 ---
 
-name: face-recognition-network
-class: middle, center
+.left-column[
+## Two streams
+### - Where vs. What
+### - *How* vs. What
+]
+.right-column[
+<img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="400px">
+
+#### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)
+#### [Goodale & Milner 92](http://www.sciencedirect.com/science/article/pii/0166223692903448)]
+
+---
+
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+### - What do they compute?
+### - Specialization
+### - Neurocomputing
+]
+.right-column[
+### Brain-inspired face recognition
 
 <img src="https://www.technologyreview.com/sites/default/files/images/Monkey%20patches.png">
 
 *https://www.technologyreview.com/sites/default/files/images/Monkey%20patches.png*
 
-#### [Fahrzmadi et al. 2015](http://arxiv.org/abs/1502.01241)
+#### [Fahrzmadi et al. 2015](http://arxiv.org/abs/1502.01241)]
 
 ---
 
-name: deep-learning
-class: middle, center
+.left-column[
+## Processing networks
+### - Visual brain
+### - Rest of brain
+### - Topographic maps
+### - What do they compute?
+### - Specialization
+### - Neurocomputing
+]
+.right-column[
+### Deep learning
 
-### "[Deep learning](http://deeplearning.net/)"
-
-<iframe width="1000" height="500" src="http://deeplearning.net/" frameborder="0" allowfullscreen>
-</iframe>
+<iframe width="800" height="500" src="http://deeplearning.net/" frameborder="0" allowfullscreen>
+</iframe>]
 
 ---
 
-name: symmetry
-class: middle, center
+name: agenda-2
 
-## Symmetry detection in brain and behavior
+.left-column[# Agenda]
 
-<img src="https://svndl.stanford.edu/sites/default/files/wade_symmetry_best_blank_1.png" height="400px">
+.right-column[
+### *How human vision compares with machine vision*
+
+### Studying human symmetry perception from a neural and computational perspective
+
+### *Opportunities to apply machine vision to understand human function*
+]
+
+---
+
+.left-column[
+## Symmetry detection in brain and behavior]
+
+.right-column[<img src="https://svndl.stanford.edu/sites/default/files/wade_symmetry_best_blank_1.png" height="500px">
 
 *https://svndl.stanford.edu/sites/default/files/wade_symmetry_best_blank_1.png*
 
-#### [Wade 1993](http://books.simonandschuster.com/Crystal-and-Dragon/David-Wade/9780892814046)
+#### [Wade 1993](http://books.simonandschuster.com/Crystal-and-Dragon/David-Wade/9780892814046)]
 
 ---
 
 name: cohen-zaidi-2013
-class: center
 
-<img src="http://www.journalofvision.org/content/13/6/22/F3.medium.gif" width="800px">
+.left-column[
+## Behavior
+### - [Cohen & Zaidi 13](http://www.journalofvision.org/content/13/6/22.full)
+]
+.right-column[<img src="http://www.journalofvision.org/content/13/6/22/F3.medium.gif" width="800px">
 
-*http://www.journalofvision.org/content/13/6/22/F3.medium.gif* 
-
---
+*http://www.journalofvision.org/content/13/6/22/F3.medium.gif*
 
 ### Task: time to judge vertical or horizontal symmetry
-#### [Cohen & Zaidi 13](http://www.journalofvision.org/content/13/6/22.full) 
+]
 
 ---
 
 name: norcia-etal-2002
-class: center
 
+.left-column[
+## Brain responses
+- ### [Norcia et al. 02](http://www.journalofvision.org/content/2/2/1.full)
+]
+.right-column[
 <img src="http://www.journalofvision.org/content/2/2/1/F1.medium.gif" width="800px">
 
 *http://www.journalofvision.org/content/2/2/1/F1.medium.gif*
 
---
-
-### 4-fold mirror symmetry vs. random
-#### [Norcia et al. 02](http://www.journalofvision.org/content/2/2/1.full)
+### Steady-state Visually Evoked Potentials (SSVEPs)
+### 4-fold reflection symmetry vs. random
+]
 
 ---
 
 name: norcia-etal-2002-1
-class: center
 
+.left-column[
+## Brain responses
+- ### [Norcia et al. 02](http://www.journalofvision.org/content/2/2/1.full)
+]
+.right-column[
 <img src="http://www.journalofvision.org/content/2/2/1/F2.medium.gif">
 
 *http://www.journalofvision.org/content/2/2/1/F2.medium.gif*
 
---
-
 ### EEG response to (mirror) symmetric/random modulation
-#### [Norcia et al. 02](http://www.journalofvision.org/content/2/2/1.full)
+]
 
 ---
 
 name: sasaki-etal-pnas-04
-class: center
+.left-column[
+## Brain responses
+- ### [Norcia et al. 02](http://www.journalofvision.org/content/2/2/1.full)
+- ### [Sasaki et al. 04](http://www.pnas.org/content/102/8/3159.full)
+]
 
+.right-column[
 <img src="http://www.pnas.org/content/102/8/3159/F1.medium.gif">
 
 *http://www.pnas.org/content/102/8/3159/F1.medium.gif*
 
---
-
-### Activates ventral "what" stream network
-
-#### [Sasaki et al. 04](http://www.pnas.org/content/102/8/3159.full)
+### fMRI (blood oxygen) response
+### Activation in "what" stream
+]
 
 ---
 
@@ -557,10 +824,16 @@ class: middle, center
 ---
 
 name: steady-state-design
-class: middle, center
 
+.left-column[
+## Brain responses
+- Kohler et al. 2014
+]
+.right-column[
 ## Modulate rotational symmetry (P2, P3, P4, P6) vs. non- (P1)
 ## Activate regions sensitive to rotational symmetry, but not low-level features
+]
+
 
 ---
 
@@ -629,58 +902,78 @@ class: middle, center
 ---
 
 name: kohler-etal-2014-snr
-class: center
 
+.left-column[
+## Brain responses
+- Kohler et al. 2014
+]
+.right-column[
 <img src="img/SNR.vr.sc.dt.png" width="800px">
 
---
 ### EEG SNR increases with rotational symmetry
 ### Higher order "what/form" areas strongest
-#### Kohler et al. 2014
+]
 
 ---
 
 name: kohler-etal-2014-surf
-class: center
 
-<img src="img/sym4gr_surf.png" height="600px">
+.left-column[
+## Brain responses
+- Kohler et al. 2014
+]
+.right-column[<img src="img/sym4gr_surf.png" height="600px">]
 
 ---
 
 name: agenda-2
-class: center
 
-# Agenda
+.left-column[# Agenda]
 
-### How human vision compares with machine vision
+.right-column[
+### *How human vision compares with machine vision*
 
-### Studying human symmetry perception from a neural and computational perspective
-
---
+### *Studying human symmetry perception from a neural and computational perspective*
 
 ### Opportunities to apply machine vision to understand human function
+]
 
 ---
 
 name: what-is-databrary
-class: center
 
-# Databrary is a digital *data library* specialized for storing and sharing 
+.left-column[
+<img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+]
 
-## video
+.right-column[
+## ...is a digital *data library* specialized for storing and sharing 
 
---
+### video
 
-## flat-file data
+### flat-file (alphanumeric) data
 
---
-
-## and metadata.
+### and metadata.
+]
 
 ---
 
 name: databrary-volume-9
-class: center
+
+.left-column[
+<img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+## Why video?
+]
+.right-column[
+### Scientists who study behavior collect it.
+### More easily re-used than other data.
+### Not currently shared widely.
+### Privacy, technical, cultural barriers.
+]
+
+---
+
+class: center, middle
 
 <a href="https://nyu.databrary.org/volume/9">
   <img src="img/databrary-splash-page.jpg" width="700px">
@@ -689,33 +982,82 @@ class: center
 ---
 
 name: video-needs-tags
-class: center
 
-## Researchers tag/code videos manually
+.left-column[
+<img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+## Why video?
+## Tech challenges
+]
 
-### Imagine applying machine vision to research video tagging
+.right-column[
+### Researchers mostly tag/code videos manually
+
+### Imagine applying machine vision to video tagging
+]
 
 ---
 
 name: raudies-gilmore-14
-class: center, middle
+.left-column[
+<img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+## Why video?
+## Tech challenges
+## Mining research video data
+]
 
+.right-column[
 <iframe width="800" height="500" src="http://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00645#.VONsoLDF9LA" frameborder="2" allowfullscreen></iframe>
 
 *http://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00645#.VONsoLDF9LA*
 
 #### [Raudies & Gilmore 14](http://www.mitpressjournals.org/doi/full/10.1162/NECO_a_00645#.VONsoLDF9LA)
+]
 
 ---
 
 name: machine-vision-video-coding
-class: middle, center
+.left-column[
+<img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+## Why video?
+## Tech challenges
+## Mining research video data
+]
 
+.right-column[
 ## Active commercial vendors
 
 ### [Clarifai](http://www.clarifai.com/)
 
 ### [Alchemy](http://www.alchemyapi.com/)
+
+## Career opportunities in *academic/scientific* research, too!
+]
+
+---
+
+name: unsolicited-advice
+
+# Unsolicited advice
+
+--
+
+## Learn to code
+
+--
+
+### I mean really
+
+--
+
+## Contribute to open source projects
+
+--
+
+## Learn how to teach yourself new things
+
+--
+
+### And keep learning...
 
 ---
 
