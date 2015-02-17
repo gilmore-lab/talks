@@ -37,7 +37,9 @@ class: middle, center
 ## JavaScript ([remark.js](http://remarkjs.com/))
 ## [Markdown](http://daringfireball.net/projects/markdown/)
 ## CSS, HTML5
-## GitHub, <http://github.com/gilmore-lab/talks/2015-02-18-cse-class/>
+## GitHub
+#### Source: <http://github.com/gilmore-lab/talks/2015-02-18-cse-class/>
+#### Presentation: <http://gilmore-lab.github.io/talks/2015-02-18-cse-class/>
 
 ---
 
