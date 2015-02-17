@@ -34,6 +34,7 @@ class: center
 name: technology-stack
 class: middle, center
 
+# Technology stack
 ## JavaScript ([remark.js](http://remarkjs.com/))
 ## [Markdown](http://daringfireball.net/projects/markdown/)
 ## CSS, HTML5
