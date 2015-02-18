@@ -376,8 +376,8 @@ name: eye-vs-camera-2
 
 .left-column[
 ## Geometry
-- Eye: Spherical
-- Camera: Cartesian
+### - Eye: Spherical
+### - Camera: Cartesian
 ]
 
 ---
@@ -395,12 +395,12 @@ name: eye-vs-camera-2
 
 .left-column[
 ## Geometry
-- Eye: Spherical
-- Camera: Cartesian
+### - Eye: Spherical
+### - Camera: Cartesian
 
 ## Temporal sampling
-- Eye: [30-100 Hz](http://www.jneurosci.org/content/30/11/3896.full.html)
-- Camera: [.67-500 Hz+](http://www.fastecimaging.com/products/handheld-cameras/high-speed-long-record/ts4)
+### - Eye: [30-100 Hz](http://www.jneurosci.org/content/30/11/3896.full.html)
+### - Camera: [.67-500 Hz+](http://www.fastecimaging.com/products/handheld-cameras/high-speed-long-record/ts4)
 ]
 
 ---
@@ -415,8 +415,8 @@ name: eye-vs-camera-2
 
 .right-column[
 ## Image compression
-- Eye: 125:1
-- Camera: ?
+### - Eye: 125:1
+### - Camera: ?
 
 <img src="http://www.webexhibits.org/causesofcolor/images/content/26z.jpg" width="600px">
 
@@ -435,8 +435,8 @@ name: eye-vs-camera-2
 
 .left-column[
 ## Stereo
-- Eye: Separated by ~ 6 cm, both eyes move
-- [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
+### - Eye: Separated by ~ 6 cm, both eyes move
+### - [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
 ]
 
 ---
@@ -451,12 +451,12 @@ name: eye-vs-camera-2
 
 .left-column[
 ## Stereo
-- Eye: Separated by ~ 6 cm, both eyes move
-- [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
+### - Eye: Separated by ~ 6 cm, both eyes move
+### - [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
 
 ## Image stabilization
-- Eye: nystagmus, saccades, pursuit, vestibulo-occular reflex
-- Camera: [optical and digital](http://cameras.about.com/od/technologies/a/image_stabiliza.htm)
+### - Eye: nystagmus, saccades, pursuit, vestibulo-occular reflex
+### - Camera: [optical and digital](http://cameras.about.com/od/technologies/a/image_stabiliza.htm)
 ]
 
 ---
@@ -1097,6 +1097,10 @@ name: unsolicited-advice
 --
 
 ### I mean really
+
+---
+
+### MATLAB is not a "real" language.
 
 --
 
