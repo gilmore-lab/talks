@@ -537,8 +537,8 @@ name: retinotopy-1
 ### - Topographic maps
 ]
 
-.right-column
-[<img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg" width="500px">
+.right-column[
+<img src="http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg" width="500px">
 
 *http://ars.els-cdn.com/content/image/1-s2.0-S089662730700774X-gr1.jpg*
 
@@ -631,7 +631,8 @@ name: mishkin-ungerleider-macko-82
 .right-column[
 <img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="400px">
 
-#### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)]
+#### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)
+]
 
 ---
 
@@ -644,7 +645,8 @@ name: mishkin-ungerleider-macko-82
 <img src="https://lh5.googleusercontent.com/-5fvutO3mGNk/ULPz3gqvMeI/AAAAAAAAk2w/CHpezGpt9mo/w800-h800/ventral-dorsal-stream.png" height="400px">
 
 #### [Mishkin, Ungerleider, Macko 82](http://www.sciencedirect.com/science/article/pii/016622368390190X)
-#### [Goodale & Milner 92](http://www.sciencedirect.com/science/article/pii/0166223692903448)]
+#### [Goodale & Milner 92](http://www.sciencedirect.com/science/article/pii/0166223692903448)
+]
 
 ---
 
@@ -991,33 +993,26 @@ name: agenda-2
 
 ---
 
-name: what-is-databrary
-
 .left-column[
 <img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
+## 
 ]
-
 .right-column[
 ## ...is a digital *data library* specialized for storing and sharing 
-
 ### video
-
 ### flat-file (alphanumeric) data
-
 ### and metadata.
 ]
 
 ---
-
-name: databrary-volume-9
 
 .left-column[
 <img src="http://databrary.org/theme/img/logo/databrary.png" width="250px">
 ## Why video?
 ]
 .right-column[
-### Scientists who study behavior collect it.
-### More easily re-used than other data.
+## Scientists who study behavior collect it.
+## More easily re-used than other data.
 ### Not currently shared widely.
 ### Privacy, technical, cultural barriers.
 ]
@@ -1098,7 +1093,7 @@ name: unsolicited-advice
 
 ### I mean really
 
----
+--
 
 ### MATLAB is not a "real" language.
 
