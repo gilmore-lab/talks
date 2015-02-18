@@ -374,7 +374,7 @@ name: eye-vs-camera-2
 ### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
 ] 
 
-.left-column[
+.right-column[
 ## Geometry
 ### - Eye: Spherical
 ### - Camera: Cartesian
@@ -393,7 +393,7 @@ name: eye-vs-camera-2
 ### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
 ] 
 
-.left-column[
+.right-column[
 ## Geometry
 ### - Eye: Spherical
 ### - Camera: Cartesian
@@ -433,7 +433,7 @@ name: eye-vs-camera-2
 ### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
 ] 
 
-.left-column[
+.right-column[
 ## Stereo
 ### - Eye: Separated by ~ 6 cm, both eyes move
 ### - [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
@@ -449,7 +449,7 @@ name: eye-vs-camera-2
 ### - [Eye vs. camera](http://petapixel.com/2012/11/17/the-camera-versus-the-human-eye/)
 ] 
 
-.left-column[
+.right-column[
 ## Stereo
 ### - Eye: Separated by ~ 6 cm, both eyes move
 ### - [Camera](http://en.wikipedia.org/wiki/Stereo_camera): usually fixed 
