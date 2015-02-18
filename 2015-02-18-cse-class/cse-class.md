@@ -941,7 +941,7 @@ name: kohler-etal-2014-snr
 .right-column[
 <img src="img/hemiSNR_harm1.vr.sc.dt.png" width="600px">
 
-### EEG SNR increases with rotational symmetry
+### fMRI SNR increases with rotational symmetry
 ]
 
 ---
