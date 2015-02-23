@@ -455,3 +455,23 @@ class: middle, center
 <a href="http://www.personalgenomes.org/">
     <img src="img/personal-genomes.jpg" width="1000px" />
 </a>
+
+---
+
+name: permission-to-share-video
+class: middle, center
+
+<iframe width="854" height="510" src="//databrary.org/video/example-video-2.mp4" frameborder="1" allowfullscreen></iframe>
+### <http://databrary.org/video/example-video-2.mp4>
+
+---
+
+name: files-are-big
+class: center
+
+# *Recordings are large and come in varied file formats, so we must...*
+
+## Store centrally
+## Digitize, convert to standard formats, 
+## Convert automatically, not burden researchers.
+
