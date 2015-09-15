@@ -1,0 +1,32 @@
+---
+title: "2015-09-18-big-data-igert"
+author: "Rick Gilmore, rogilmore@psu.edu"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Sharing identifiable data, especially video
+
+<iframe src="http://databrary.org" width=700px height=450px></iframe>
+
+## Transparent, open, reproducible research workflows
+
+| | Tool |
+|-|------|
+|<img src="https://www.rstudio.com/wp-content/uploads/2014/03/blue-125.png" height=50px>| [RStudio](http://www.rstudio.com)|
+|<img src="https://jupyter.org/assets/nav_logo.svg" height=50px>| [Project Jupyter](http://jupyter.org)|
+|<img src="https://osf.io/static/img/cos-white2.png" height=50px>|[Open Science Framework](http://osf.io)|
+|<img src="https://assets-cdn.github.com/images/modules/logos_page/Octocat.png" height=50px>|[GitHub](http://github.com)|
